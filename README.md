@@ -61,5 +61,3 @@ This project presents a comprehensive Tableau dashboard that visualizes and anal
 🌐 [Portfolio](https://kunal-shukla-portfolio.netlify.app/)  
 
 ---
-
-> 💡 *Feel free to fork, star, or contribute to this project if you're passionate about data storytelling in the EV space!*
